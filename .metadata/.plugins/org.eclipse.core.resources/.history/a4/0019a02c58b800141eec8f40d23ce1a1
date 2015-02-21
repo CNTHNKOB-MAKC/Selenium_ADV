@@ -1,0 +1,24 @@
+package core.Selenium_ADV_Day_01;
+
+import org.openqa.selenium.WebDriver;
+
+
+
+
+public class Homework_day1_PartATest {
+public static void main(String[] args) {
+	
+}
+	  WebDriver browser;
+	  String urlHRM;
+	
+	browser = new FirefoxDriver();
+	urlHRM= "http://hrm.seleniumminutes.com";
+	
+	browser.get(urlHRM);
+	
+	
+	
+	
+}
+ 

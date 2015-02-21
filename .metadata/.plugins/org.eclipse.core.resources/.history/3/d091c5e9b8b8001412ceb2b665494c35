@@ -1,0 +1,20 @@
+package core.Selenium_ADV_Day_01;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.interactions.Action;
+import org.openqa.selenium.interactions.Actions;
+
+public class ActionChains {
+	Actions Un-chained Example
+	  Actions action = new Actions(driver);
+	  action.moveToElement(driver.findElement(By.cssSelector("#menu_pim_viewPimModule > b")));// tell my mouse to go to PIM menue  //can tell it where to click on // go t ot menue and i want tupiup to find this guy and click on it 
+	  action.click(driver.findElement(By.id("menu_pim_viewEmployeeList")));
+	  action.perform();// very important  nothing will happan if you will not tell perform// must 
+
+	Action Chain Example1  
+	  Actions action1 = new Actions(driver);
+			action1.moveToElement(driver.findElement(By.cssSelector("#menu_pim_viewPimModule > b")))
+				moveToElement(driver.findElement(By.id("menu_pim_viewEmployeeList")))// elly changed in class for the show
+			.click
+					.perform();
+}

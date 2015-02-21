@@ -1,0 +1,36 @@
+package core.Selenium_ADV_Day_01;
+/*Part A:
+Install and configure Eclipse IDE.
+Create a simple WebDriver test.
+Debug, and ensure you can execute it from Eclipse IDE.
+
+Test:
+1. Login (admin/Password)
+2. On the Dashboard locate the quickLaungeContainer and ensure that the footer text is displayed correctly under each image.
+3. Start by checking the first image footer, and after everything passes, try to also check the other 2 image footers.
+
+Part B: Optional
+Please note: you need to be already familiar with Actions (action chains) to do this. We will be covering Actions in class next week, so this part is bonus.
+
+Test:
+1. Login (admin/Password)
+2. Go to PIM > Employee List
+3. Ensure that all even rows have ‘even’ class, and all odd rows have ‘odd’ class. 
+
+HINT: Locators for Part A and B were discussed in class, and can be found here:
+http://seleniumminutes.com/class/Selenium_ADV_Day_01/InClass/
+*/
+
+
+
+public class Homework_day1_PartATest {
+
+	public WebDriver browser;
+	
+	
+	
+	
+	
+	
+	
+}

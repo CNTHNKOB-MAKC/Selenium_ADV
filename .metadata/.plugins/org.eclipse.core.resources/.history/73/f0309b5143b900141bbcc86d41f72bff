@@ -1,0 +1,91 @@
+package core.Selenium_ADV_Day_01;
+
+import static org.junit.Assert.*;
+
+import java.util.concurrent.TimeUnit;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+import com.thoughtworks.selenium.webdriven.commands.GetText;
+
+public class Homework_day1_PartATestTest {
+
+	
+	private  WebDriver browser;
+	 private   String urlHRM;
+	   private String uName;
+      private  String pWard;
+    private StringBuffer verificationErrors = new StringBuffer();
+		
+		
+		
+		@BeforeClass
+		public void geturl() {
+		   uName = "admin";
+	    pWard = "Password";
+		browser = new FirefoxDriver();
+		urlHRM= "http://hrm.seleniumminutes.com";
+        
+		browser.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS) ;
+		
+		 }
+		
+    @Test
+		public void logIn() throws InterruptedException{
+    	browser.get(urlHRM); // same thing as navigate
+	 
+		browser.findElement(By.id("txtUsername")).sendKeys("admin");
+		browser.findElement(By.id("txtPassword")).sendKeys("Password");
+		browser.findElement(By.id("btnLogin")).click();
+		browser.manage().window().maximize();
+		//WebElement image0 = browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/img"));
+		//browser.navigate().to(urlHRM);
+        //browser.findElement(By.xpath("//*[@id='btnLogin']")).submit();
+		
+		assertEquals("Assign Leave",browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/span")).getText() );
+    }
+	
+		
+		@After
+		  public void quitsTheBrowser(){
+			
+				browser.quit();	
+				//browser.close();	
+			}
+		 
+	
+		
+		
+/*	@Test
+ public void verifyImageFooterText() throws Exception {
+			//assertEquals("Assign Leave",browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/span")).getText() );
+			
+
+	//	assertEquals("footer text is displayed INcorrectly under 1st image", "Assign Leave", browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/span")));
+			browser.close();
+			 
+		
+	}*/
+	/*@After
+	public void tearDown() throws Exception {
+		browser.quit();
+		String verificationErrorString = verificationErrors.toString();
+		if (!"".equals(verificationErrorString)) {
+			fail(verificationErrorString);
+		}
+	}*/
+}	
+		
+		
+		
+ 
+
+ 

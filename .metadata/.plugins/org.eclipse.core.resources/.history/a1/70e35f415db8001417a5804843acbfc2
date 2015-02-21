@@ -1,0 +1,46 @@
+package core.Selenium_ADV_Day_01;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+ 
+
+
+
+
+public class Homework_day1_PartATest {
+public static void main(String[] args) {
+	Homework_day1_PartATest HWD1 = new Homework_day1_PartATest();
+	HWD1.launchTest();
+	
+}
+	
+
+
+
+	void launchTest(){
+		
+		WebDriver browser;
+		String urlHRM;
+String uName;
+String pWard;
+uName = "admin";
+pWard = "Password";
+		browser = new FirefoxDriver();
+		urlHRM= "http://hrm.seleniumminutes.com";
+		//browser.navigate().to(urlHRM);
+		browser.get(urlHRM); // same thing as navigate
+		browser.findElement(By.id("divUsername")).sendKeys(uName);
+		browser.findElement(By.id("divPassword")).sendKeys(pWard);
+		browser.findElement(By.xpath("//*[@id='btnLogin']")).submit();
+		
+		
+		WebElement image0 = browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/img"));
+		
+	}
+	
+	
+}
+ 

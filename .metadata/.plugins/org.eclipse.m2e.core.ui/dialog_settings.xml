@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="core.Selenium_WebDriverAPIbyExample"/>
+			<item value="core.Selenium_ADV_Day_10"/>
+			<item value="core.Selenium_ADV_Day_09"/>
+			<item value="core.Selenium_ADV_Day_08"/>
+			<item value="core.Selenium_ADV_Day_07"/>
+			<item value="core.Selenium_ADV_Day_06"/>
+			<item value="core.Selenium_ADV_Day_05"/>
+			<item value="core.Selenium_ADV_Day_04"/>
+			<item value="core.Selenium_ADV_Day_03"/>
+			<item value="core.Selenium_ADV_Day_02"/>
+			<item value="core.Selenium_ADV_Day_01"/>
+		</list>
+		<list key="groupId">
+			<item value="core"/>
+		</list>
+		<list key="artifactId">
+			<item value="Selenium-WebDriverAPIbyExample"/>
+			<item value="Selenium_ADV_Day_10"/>
+			<item value="Selenium_ADV_Day_09"/>
+			<item value="Selenium_ADV_Day_08"/>
+			<item value="Selenium_ADV_Day_07"/>
+			<item value="Selenium_ADV_Day_06"/>
+			<item value="Selenium_ADV_Day_05"/>
+			<item value="Selenium_ADV_Day_04"/>
+			<item value="Selenium_ADV_Day_03"/>
+			<item value="Selenium_ADV_Day_02"/>
+			<item value="Selenium_ADV_Day_01"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.1"/>
+			<item value="04.16.2015"/>
+			<item value="04.09.2015"/>
+			<item value="04.02.2015"/>
+			<item value="03.27.2015"/>
+			<item value="03.20.2015"/>
+			<item value="03.13.2015"/>
+			<item value="03.6.2015"/>
+			<item value="02.27.2015"/>
+			<item value="02.19.2015"/>
+			<item value="02.12.2015"/>
+		</list>
+	</section>
+</section>

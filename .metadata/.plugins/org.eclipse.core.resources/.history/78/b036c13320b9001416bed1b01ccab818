@@ -1,0 +1,83 @@
+package core.Selenium_ADV_Day_01;
+
+import static org.junit.Assert.*;
+
+import java.util.concurrent.TimeUnit;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+import com.thoughtworks.selenium.webdriven.commands.GetText;
+
+public class Homework_day1_PartATestTest {
+
+	
+	static WebDriver browser;
+	static String urlHRM;
+static String uName;
+static String pWard;
+
+		
+		
+		
+		@BeforeClass
+		
+	static	public void logIn() throws InterruptedException{
+		
+	uName = "admin";
+	pWard = "Password";
+		browser = new FirefoxDriver();
+		//browser = new ChromeDriver();
+		urlHRM= "http://hrm.seleniumminutes.com";
+browser.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS) ;
+		
+		
+		//browser.navigate().to(urlHRM);
+		browser.get(urlHRM); // same thing as navigate
+		Thread.sleep(3000);
+		browser.findElement(By.id("txtUsername")).sendKeys("admin");
+		
+		browser.findElement(By.id("txtPassword")).sendKeys("Password");
+	//	browser.findElement(By.xpath("//*[@id='btnLogin']")).submit();
+		browser.findElement(By.id("btnLogin")).click();
+		
+		//WebElement image0 = browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/img"));
+		browser.manage().window().maximize();
+		
+		}
+		@Before
+		
+		@After
+		  public void quitsTheBrowser(){
+			
+				//browser.quit();	
+			browser.close();	
+			}
+		@AfterClass
+	
+		
+		
+	@Test
+public void verifyImageFooterText(){
+			assertEquals("Assign Leave",browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/span")).getText() );	
+	//	assertEquals("footer text is displayed INcorrectly under 1st image", "Assign Leave", browser.findElement(By.xpath("//*[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td[1]/div/a/span")));
+			/*browser.close();
+			*/ 
+		
+	}
+ 
+	}
+		
+		
+		
+		
+ 
+
+ 

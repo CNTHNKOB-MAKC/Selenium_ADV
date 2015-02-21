@@ -1,0 +1,23 @@
+package core.Selenium_WebDriverAPIbyExample;
+
+import java.io.File;
+import static org.junit.Assert.assertEquals;
+
+import org.junit.*;
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
+import org.openqa.selenium.chrome.ChromeDriverService;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import junit.framework.TestCase;
+
+import org.openqa.selenium.WebDriver;
+
+public class ChromeDriver  extends TestCase {
+	
+	public static void main(String[] args){
+		System.setProperty("webdriver.chrome.driver", "C:/WorkspaceEllie/Selenium_ADV_Day_01/src/main/resources/chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+	
+	
+}}

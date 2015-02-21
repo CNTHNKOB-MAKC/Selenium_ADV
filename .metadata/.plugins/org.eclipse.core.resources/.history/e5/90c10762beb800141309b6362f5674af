@@ -1,0 +1,46 @@
+package core.Selenium_ADV_Day_01;
+
+import java.util.concurrent.TimeUnit;
+
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Action;
+import org.openqa.selenium.interactions.Actions;
+
+public class ActionChains {
+	
+	private WebDriver driver;
+	private String baseUrl;
+	private boolean acceptNextAlert = true;
+	private StringBuffer verificationErrors = new StringBuffer();
+
+	@Before
+	public void setUp() throws Exception {
+	  driver = new FirefoxDriver();
+	  baseUrl = "http://hrm.seleniumminutes.com/";
+	  driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	}
+	@Test
+	public void testActions1() {
+	//Actions Un-chained Example
+	  Actions action = new Actions(driver);
+	  action.moveToElement(driver.findElement(By.cssSelector("#menu_pim_viewPimModule > b")));// tell my mouse to go to PIM menue  //can tell it where to click on // go t ot menue and i want tupiup to find this guy and click on it 
+	  action.click(driver.findElement(By.id("menu_pim_viewEmployeeList")));
+	  action.perform();// very important  nothing will happan if you will not tell perform// must 
+
+	//Action Chain Example1  
+	  Actions action1 = new Actions(driver);
+			action1.moveToElement(driver.findElement(By.cssSelector("#menu_pim_viewPimModule > b")))
+			.moveToElement(driver.findElement(By.id("menu_pim_viewEmployeeList")))// elly changed in class for the show
+			.click();
+					//.perform();
+			
+	}
+			
+			
+			
+			
+}
