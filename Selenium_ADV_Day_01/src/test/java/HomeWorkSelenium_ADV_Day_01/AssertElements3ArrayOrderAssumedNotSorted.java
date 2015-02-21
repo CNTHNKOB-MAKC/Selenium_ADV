@@ -40,20 +40,23 @@ public class AssertElements3ArrayOrderAssumedNotSorted {
 		for (int i=0; i<3; i++) {
 			String actual_footer = driver.findElement(By.xpath("(//div[@class='quickLaunge']/a/img/following-sibling::*)[" + (i+1) + "]")).getText();
 			String expected_footer = expected_footers[i]; //array previously declared 		String [] expected_footers =  {"Assign Leave", "Leave List", "Timesheets"};
-			assertTrue(actual_footer.equals(expected_footer));
+			assertTrue(actual_footer.equals(expected_footer));//boolean condition looks like logic eg is it logical that 2+3 is 5 true
+			// the above combined the two variables actual and expected into one boolean condition withEQUALs in the middle
+			// assertTrue(message, condition);
+			System.out.println(expected_footer);
 		}
 		
-		driver.findElement(By.id("welcome")).click();
-		driver.findElement(By.linkText("Logout")).click();
 	}
 
 	@After
 	public void tearDown() throws Exception {
+		
+
+		driver.findElement(By.id("welcome")).click();
+		driver.findElement(By.linkText("Logout")).click();
 		driver.quit();
 		String verificationErrorString = verificationErrors.toString();
-		if (!"".equals(verificationErrorString)) {
-			fail(verificationErrorString);
-		}
+	
 	}
 
 	@Before

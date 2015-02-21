@@ -39,6 +39,7 @@ public class AssertElements2String2Array  {
 		// Solution 2//
 		WebElement quickLaunch_container = driver.findElement(By.id("dashboard-quick-launch-panel-menu_holder"));
 		List<WebElement> all_button_footers2 = quickLaunch_container.findElements(By.xpath(".//div[@class='quickLaunge']/a/img/following-sibling::*"));
+		
 		// Check that there are exactly 3 image footers
 		assertEquals(
 				"The actual number of footers did not match the expected number",
@@ -67,10 +68,8 @@ public class AssertElements2String2Array  {
 	@After
 	public void tearDown() throws Exception {
 		driver.quit();
-		String verificationErrorString = verificationErrors.toString();
-		if (!"".equals(verificationErrorString)) {
-			fail(verificationErrorString);
+	
 		}
 	}
 
-	}
+	

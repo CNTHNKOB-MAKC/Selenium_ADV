@@ -53,6 +53,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="core.HRM"/>
+			<item value="core.Selenium_Intro"/>
 			<item value="core.Selenium_WebDriverAPIbyExample"/>
 			<item value="core.Selenium_ADV_Day_10"/>
 			<item value="core.Selenium_ADV_Day_09"/>
@@ -69,6 +71,8 @@
 			<item value="core"/>
 		</list>
 		<list key="artifactId">
+			<item value="HRM"/>
+			<item value="Selenium_Intro"/>
 			<item value="Selenium-WebDriverAPIbyExample"/>
 			<item value="Selenium_ADV_Day_10"/>
 			<item value="Selenium_ADV_Day_09"/>
