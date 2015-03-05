@@ -1340,3 +1340,447 @@
 2015-02-21 14:50:31,471 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-02-21 14:50:31,473 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-02-21 14:50:31,474 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_01\src\test\resources
+2015-02-26 19:17:20,864 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:20,871 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\main\resources
+2015-02-26 19:17:20,875 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:20,875 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\test\resources
+2015-02-26 19:17:22,542 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:22,543 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\main\resources
+2015-02-26 19:17:22,546 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:22,546 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\test\resources
+2015-02-26 19:17:23,891 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:23,898 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-26 19:17:23,943 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:23,943 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_01\src\test\resources
+2015-02-26 19:17:24,088 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:17:24,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:17:24,331 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,331 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 19:17:24,334 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,334 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 19:17:24,463 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,464 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\main\resources
+2015-02-26 19:17:24,466 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,466 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\test\resources
+2015-02-26 19:17:24,656 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\main\resources
+2015-02-26 19:17:24,659 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,659 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\test\resources
+2015-02-26 19:17:24,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,782 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\main\resources
+2015-02-26 19:17:24,786 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,786 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\test\resources
+2015-02-26 19:17:24,888 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,889 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\main\resources
+2015-02-26 19:17:24,891 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:24,892 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\test\resources
+2015-02-26 19:17:25,209 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:25,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\main\resources
+2015-02-26 19:17:25,211 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:25,212 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\test\resources
+2015-02-26 19:17:25,348 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:25,348 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\main\resources
+2015-02-26 19:17:25,350 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:25,351 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\test\resources
+2015-02-26 19:17:25,484 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:25,485 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\main\resources
+2015-02-26 19:17:25,487 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:25,487 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\test\resources
+2015-02-26 19:17:26,113 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:26,114 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\main\resources
+2015-02-26 19:17:26,117 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:26,117 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\test\resources
+2015-02-26 19:17:30,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:30,754 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:17:30,756 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:17:30,757 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:19:10,428 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkspaceEllie\Selenium_ADV_Day_02
+2015-02-26 19:19:10,431 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-26 19:19:24,677 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:19:24,678 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\main\resources
+2015-02-26 19:19:24,680 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:19:24,681 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\test\resources
+2015-02-26 19:19:24,692 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:19:24,692 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:19:24,695 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:19:24,696 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:19:31,468 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Selenium_ADV_Day_02:02.19.2015 @ C:\WorkspaceEllie\Selenium_ADV_Day_02\pom.xml.
+2015-02-26 19:19:32,704 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:19:32,704 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:19:32,707 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:19:32,707 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:20:50,095 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:20:50,102 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:20:50,105 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:20:50,106 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:20:58,795 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:20:58,795 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:20:58,797 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:20:58,797 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:21:38,838 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkspaceEllie\Selenium_ADV_Day_02
+2015-02-26 19:21:38,841 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-26 19:21:46,202 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:21:46,202 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:21:46,206 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:21:46,206 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:26:37,932 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:26:37,933 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:26:37,936 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:26:37,937 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:27:01,087 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:27:01,088 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:27:01,090 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:27:01,090 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:27:48,371 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Selenium_ADV_Day_02:02.19.2015 @ C:\WorkspaceEllie\Selenium_ADV_Day_02\pom.xml.
+2015-02-26 19:27:49,551 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:27:49,552 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:27:49,555 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:27:49,555 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:28:20,159 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:28:20,160 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:28:20,162 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:28:20,162 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 19:37:38,595 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:37:38,603 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 19:37:38,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 19:37:38,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 21:38:50,818 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Selenium_ADV_Day_03:02.26.2015 @ C:\WorkspaceEllie\Selenium_ADV_Day_03\pom.xml.
+2015-02-26 21:38:51,094 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:38:51,095 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:38:51,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:38:51,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:39:40,927 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkspaceEllie\Selenium_ADV_Day_03
+2015-02-26 21:39:40,928 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-26 21:39:47,551 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:39:47,552 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:39:47,554 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:39:47,555 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:40:21,768 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:40:21,769 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 21:40:21,772 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:40:21,773 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 21:40:21,940 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Selenium_ADV_Day_03:02.26.2015 @ C:\WorkspaceEllie\Selenium_ADV_Day_03\pom.xml.
+2015-02-26 21:40:23,220 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:40:23,221 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:40:23,223 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:40:23,223 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:41:45,729 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:41:45,736 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:41:45,740 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:41:45,740 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:44:40,749 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:44:40,751 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:44:40,753 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:44:40,754 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:45:27,570 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_25]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-02-26 21:45:27,590 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_25]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-02-26 21:45:52,784 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:45:52,785 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:45:52,788 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:45:52,788 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:54:32,296 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:54:32,297 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:54:32,299 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:54:32,299 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:54:48,504 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:54:48,505 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:54:48,507 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:54:48,507 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:54:55,659 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:54:55,660 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:54:55,663 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:54:55,664 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:55:01,449 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:01,450 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:55:01,452 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:01,453 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:55:44,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:44,269 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\main\resources
+2015-02-26 21:55:44,274 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:44,275 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\test\resources
+2015-02-26 21:55:45,795 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:45,795 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\main\resources
+2015-02-26 21:55:45,798 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:45,799 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\test\resources
+2015-02-26 21:55:46,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:46,793 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-26 21:55:46,804 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:46,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_01\src\test\resources
+2015-02-26 21:55:47,722 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:47,723 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 21:55:47,725 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:47,725 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 21:55:48,583 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,584 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:55:48,586 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,587 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:55:48,640 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,641 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\main\resources
+2015-02-26 21:55:48,644 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,644 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\test\resources
+2015-02-26 21:55:48,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\main\resources
+2015-02-26 21:55:48,683 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,683 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\test\resources
+2015-02-26 21:55:48,719 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,720 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\main\resources
+2015-02-26 21:55:48,724 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,724 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\test\resources
+2015-02-26 21:55:48,767 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,768 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\main\resources
+2015-02-26 21:55:48,769 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,770 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\test\resources
+2015-02-26 21:55:48,815 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,816 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\main\resources
+2015-02-26 21:55:48,818 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,819 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\test\resources
+2015-02-26 21:55:48,857 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,857 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\main\resources
+2015-02-26 21:55:48,859 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,860 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\test\resources
+2015-02-26 21:55:48,900 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,901 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\main\resources
+2015-02-26 21:55:48,902 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,903 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\test\resources
+2015-02-26 21:55:48,945 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,945 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\main\resources
+2015-02-26 21:55:48,948 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:55:48,948 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\test\resources
+2015-02-26 21:56:19,208 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkspaceEllie\Selenium_ADV_Day_03
+2015-02-26 21:56:19,212 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-26 21:56:27,149 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:56:27,150 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:56:27,153 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:56:27,154 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:57:05,569 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:57:05,570 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:57:05,573 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:57:05,573 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 21:59:37,887 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:59:37,887 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 21:59:37,899 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 21:59:37,899 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:09:29,745 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:09:29,746 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:09:29,748 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:09:29,749 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:12:21,746 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:12:21,750 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:12:21,753 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:12:21,754 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:14:21,826 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:14:21,827 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:14:21,829 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:14:21,829 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:14:36,035 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Selenium_ADV_Day_03:02.26.2015 @ C:\WorkspaceEllie\Selenium_ADV_Day_03\pom.xml.
+2015-02-26 22:14:37,413 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:14:37,413 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:14:37,415 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:14:37,415 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:15:29,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:15:29,840 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 22:15:29,845 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:15:29,846 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 22:16:38,028 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:16:38,030 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:16:38,033 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:16:38,034 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:19:47,807 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:19:47,808 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:19:47,812 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:19:47,812 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:30:58,310 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:30:58,311 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:30:58,315 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:30:58,315 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:34:27,713 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:34:27,713 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:34:27,715 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:34:27,716 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:38:01,247 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Selenium_ADV_Day_03:02.26.2015 @ C:\WorkspaceEllie\Selenium_ADV_Day_03\pom.xml.
+2015-02-26 22:38:02,474 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/auto/auto-common/0.2/auto-common-0.2.pom
+2015-02-26 22:38:02,740 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/auto/auto-common/0.2/auto-common-0.2.pom
+2015-02-26 22:38:03,685 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:38:03,686 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 22:38:03,689 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:38:03,690 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 22:38:49,475 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorkspaceEllie\Selenium_ADV_Day_03
+2015-02-26 22:38:49,482 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-26 22:46:44,233 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:46:44,242 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\main\resources
+2015-02-26 22:46:44,248 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 22:46:44,249 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\test\resources
+2015-02-26 23:19:01,319 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:01,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\main\resources
+2015-02-26 23:19:01,332 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:01,333 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\test\resources
+2015-02-26 23:19:02,686 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:02,695 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-26 23:19:02,742 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:02,742 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_01\src\test\resources
+2015-02-26 23:19:03,793 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:03,793 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-02-26 23:19:03,796 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:03,796 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-02-26 23:19:04,751 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:04,751 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 23:19:04,753 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:04,753 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-26 23:19:04,845 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:04,845 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\main\resources
+2015-02-26 23:19:04,847 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:04,848 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\test\resources
+2015-02-26 23:19:05,093 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,094 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\main\resources
+2015-02-26 23:19:05,096 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,097 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\test\resources
+2015-02-26 23:19:05,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\main\resources
+2015-02-26 23:19:05,192 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,193 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\test\resources
+2015-02-26 23:19:05,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\main\resources
+2015-02-26 23:19:05,282 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,282 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\test\resources
+2015-02-26 23:19:05,618 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,619 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\main\resources
+2015-02-26 23:19:05,621 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,622 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\test\resources
+2015-02-26 23:19:05,753 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,754 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\main\resources
+2015-02-26 23:19:05,756 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,757 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\test\resources
+2015-02-26 23:19:05,875 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,875 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\main\resources
+2015-02-26 23:19:05,878 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:05,878 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\test\resources
+2015-02-26 23:19:06,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:06,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\main\resources
+2015-02-26 23:19:06,455 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:19:06,455 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\test\resources
+2015-02-26 23:28:16,665 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:28:16,667 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-26 23:28:16,670 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 23:28:16,670 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-02-27 20:25:07,409 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-27 20:25:07,416 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-02-27 20:25:07,422 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-27 20:25:07,423 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-03-03 21:13:45,997 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:46,005 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\main\resources
+2015-03-03 21:13:46,010 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:46,011 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\HRM\src\test\resources
+2015-03-03 21:13:47,907 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:47,907 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\main\resources
+2015-03-03 21:13:47,909 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:47,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium-WebDriverAPIbyExample\src\test\resources
+2015-03-03 21:13:50,431 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:50,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-03-03 21:13:50,505 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:50,505 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_01\src\test\resources
+2015-03-03 21:13:51,739 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:51,740 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-03-03 21:13:51,744 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:51,744 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-03-03 21:13:52,966 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:52,967 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\main\resources
+2015-03-03 21:13:52,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:52,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_03\src\test\resources
+2015-03-03 21:13:53,089 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,090 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\main\resources
+2015-03-03 21:13:53,093 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,093 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_04\src\test\resources
+2015-03-03 21:13:53,305 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,306 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\main\resources
+2015-03-03 21:13:53,310 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,310 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_05\src\test\resources
+2015-03-03 21:13:53,425 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,425 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\main\resources
+2015-03-03 21:13:53,430 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,431 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_06\src\test\resources
+2015-03-03 21:13:53,558 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,559 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\main\resources
+2015-03-03 21:13:53,561 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,562 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_07\src\test\resources
+2015-03-03 21:13:53,905 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,906 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\main\resources
+2015-03-03 21:13:53,928 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:53,928 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_08\src\test\resources
+2015-03-03 21:13:54,076 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:54,076 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\main\resources
+2015-03-03 21:13:54,078 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:54,079 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_09\src\test\resources
+2015-03-03 21:13:54,202 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:54,203 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\main\resources
+2015-03-03 21:13:54,206 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:54,207 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_10\src\test\resources
+2015-03-03 21:13:54,872 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:54,872 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\main\resources
+2015-03-03 21:13:54,875 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:13:54,875 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_Intro\src\test\resources
+2015-03-03 21:14:47,933 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:14:47,934 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-03-03 21:14:47,937 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:14:47,937 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
+2015-03-03 21:15:04,371 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:15:04,372 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\main\resources
+2015-03-03 21:15:04,375 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-03 21:15:04,375 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkspaceEllie\Selenium_ADV_Day_02\src\test\resources
